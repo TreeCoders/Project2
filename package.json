@@ -1,0 +1,22 @@
+{
+  "name": "treecoders",
+  "version": "1.0.0",
+  "description": "App where you share your stories",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/TreeCoders/Project2.git"
+  },
+  "author": "Kim , Lorenzo , Elvin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.15.0",
+    "path": "^0.12.7"
+  }
+}
